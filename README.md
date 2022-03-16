@@ -2,8 +2,6 @@
 
 In this project, I tried to explore the data set called Telco Customer Churn to identify valueable insights from the data. This data aims to show the amount of customers who have left, stayed, and signed up for Telco's service. The full dataset can be downloaded here: https://www.kaggle.com/blastchar/telco-customer-churn
 
-## Data Understanding
-
 This data set contains:
 
 - Churn: List of customers who already left the service
